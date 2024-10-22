@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: Maven Source Plugin 3.2.1
+Bundle-ManifestVersion: 2
+Bundle-Name: Jetty :: Http Utility
+Bundle-SymbolicName: org.eclipse.jetty.http.source
+Bundle-Vendor: Eclipse Jetty Project
+Bundle-Version: 9.4.46.v20220331
+Eclipse-SourceBundle: org.eclipse.jetty.http;version="9.4.46.v20220331";
+ roots:="."
+
